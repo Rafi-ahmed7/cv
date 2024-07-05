@@ -2,3 +2,9 @@ h1{
     background-color: lightgray !important;
     padding:10px;
 }
+h2{
+    background-color: aqua;
+}
+p{
+    background-color: brown;
+}
